@@ -1,0 +1,22 @@
+{
+  "name": "discord_unix_time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mt-perform/discord_unix_time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mt-perform/discord_unix_time/issues"
+  },
+  "homepage": "https://github.com/mt-perform/discord_unix_time#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
